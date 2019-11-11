@@ -4,7 +4,8 @@ Objectives:
  - [x] Create readme.md
  - [x] Create projectroadmap.md
  - [x] Run codes founded in the readme.md and determine if they are useable
- - [] Download repository to computer to allow work to be done on Github desktop 
+ - [] Download repository to computer to allow work to be done on Github desktop
  - [] Create flowchart to organize data and show how the code will work
- - [] Test and edit code
+ - [] Test and edit code to make sure it is running correctly 
  - [] Create PowerPoint to present on December 16th 
+ - [] Upload PowerPoint to respository 
