@@ -5,7 +5,7 @@ Objectives:
  - [x] Create projectroadmap.md
  - [x] Run codes founded in the readme.md and determine if they are useable
  - [x] Download repository to computer to allow work to be done on Github desktop
- - [] Create flowchart to organize data and show how the code will work
+ - [] Create Excel with data that I want to incorporate and upload it to repository 
  - [] Test and edit code to make sure it is running correctly 
  - [] Create PowerPoint to present on December 16th 
  - [] Upload PowerPoint to respository 
