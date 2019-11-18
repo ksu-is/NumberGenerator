@@ -7,8 +7,8 @@ Objectives:
  - [x] Download repository to computer to allow work to be done on Github desktop
  - [x] Create Excel with data that I want to incorporate and upload it to repository
  - [x] Upload Excel to repository 
- - [] Create PowerPoint slide as a snapshot of my project 
- - [] Upload snapshot to repository on November 18th 
+ - [X] Create PowerPoint slide as a snapshot of my project 
+ - [X] Upload snapshot to repository on November 18th 
  - [] Test and edit code to make sure it is running correctly 
  - [] Create PowerPoint to present on December 16th 
  - [] Upload PowerPoint to respository 
