@@ -1,7 +1,7 @@
 # import random database
 import random
 
-def lottery.number():
+def lottery_number():
     #Define list
     generated_lottery_numbers = [0, 0, 0, 0, 0, 0]
     #Set the range for the list
@@ -10,6 +10,6 @@ def lottery.number():
         generated_lottery_numbers[index] = random.randint(1, 70) 
     for index in generated_lottery_numbers:
         #Printing the randomly generated number
-        print(index,end=',')  
-
-lottery.number()
+        print(index,end=' ')  
+print("Here are your lottery numbers: ")
+lottery_number()
