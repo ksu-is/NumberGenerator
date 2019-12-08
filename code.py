@@ -11,5 +11,6 @@ def lottery_number():
     for index in generated_lottery_numbers:
         #Printing the randomly generated number
         print(index,end=' ')  
+# Print a greeting
 print("Here are your lottery numbers: ")
 lottery_number()
