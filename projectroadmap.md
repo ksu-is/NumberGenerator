@@ -11,6 +11,5 @@ Objectives:
  - [X] Upload snapshot to repository on November 18th 
  - [X] Test and edit code to make sure it is running correctly 
  - [] Create PowerPoint
- - [] Upload PowerPoint to respository 
  - [] Create video of the presentation
  - [] Upload presentation to D2L
