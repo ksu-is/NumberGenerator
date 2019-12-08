@@ -10,5 +10,7 @@ Objectives:
  - [X] Create PowerPoint slide as a snapshot of my project 
  - [X] Upload snapshot to repository on November 18th 
  - [] Test and edit code to make sure it is running correctly 
- - [] Create PowerPoint to present on December 16th 
+ - [] Create PowerPoint
  - [] Upload PowerPoint to respository 
+ - [] Create video of the presentation
+ - [] Upload presentation to D2L
