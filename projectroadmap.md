@@ -9,7 +9,7 @@ Objectives:
  - [x] Upload Excel to repository 
  - [X] Create PowerPoint slide as a snapshot of my project 
  - [X] Upload snapshot to repository on November 18th 
- - [] Test and edit code to make sure it is running correctly 
+ - [X] Test and edit code to make sure it is running correctly 
  - [] Create PowerPoint
  - [] Upload PowerPoint to respository 
  - [] Create video of the presentation
